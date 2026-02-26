@@ -202,7 +202,7 @@ function AboutUs() {
                 textShadow: "0px 0px 6px rgba(255, 215, 0, 0.5)",
               }}
             >
-              Jaya Kushwah
+              Madhur Anjana
             </b>
           </p>
           <small style={{ opacity: 0.9, fontSize: "13px" }}>

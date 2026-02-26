@@ -310,7 +310,7 @@ function Home() {
         </div>
         <p className="mb-0">
           © 2025 <b>Digital Phone Directory</b> | Designed with ❤️ by{" "}
-          <b>Jaya Kushwah</b>
+          <b> Madhur Anjana</b>
         </p>
       </footer>
 
